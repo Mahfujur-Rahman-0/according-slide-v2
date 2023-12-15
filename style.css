@@ -7,6 +7,7 @@
   display: block;
   overflow: hidden;
   height: 500px;
+  clip-path:polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
 }
 
 #slide-img {
